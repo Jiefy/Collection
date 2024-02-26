@@ -43,7 +43,7 @@
 - [Berty](https://berty.tech/) - 无需网络连接的安全和私密通讯工具。
 - [Screen Studio](https://www.screen.studio) - 快速生成漂亮的录屏。
 - [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) - 一个开源的网页设计调试工具
-
+- [AlDente](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) -一款 MacBook 专用的电池管理软件  替代软件 [bclm](https://github.com/zackelia/bclm)
 ## 平台
 
 > 收录一些比较小众的平台
